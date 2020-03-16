@@ -27,5 +27,10 @@ prose:
 
 theme: jekyll-theme-minimal
 
+# Set some personal styles and logo for your course
+# this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
+jumbotron_color: "#73A5E0"
 
+jumbotron_background_image: "header.svg"
+jumbotron_image: "box-icon.png"
 
