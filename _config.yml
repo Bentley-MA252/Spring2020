@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "modules" # an empty string here means all files in the project
     values:
-      layout: "course_page"
+      layout: "default"
 
 prose:
   media: img
