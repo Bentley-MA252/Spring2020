@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /Spring2020
+baseurl: 
 markdown: kramdown
 permalink: /:categories/:title/
 
